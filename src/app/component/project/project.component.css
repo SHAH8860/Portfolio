@@ -1,0 +1,19 @@
+.box{
+    height: 2px;
+    width: 80vw;
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+
+}
+.vertical{
+    height: 93px;
+    width: 1px;
+    background-color: aqua;
+}
+.project{
+    margin-top: 88px;
+    width: 50px;
+    width: 94px;
+    margin-left: -24px;
+}
